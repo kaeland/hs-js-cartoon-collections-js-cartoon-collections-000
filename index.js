@@ -1,4 +1,5 @@
 function dwarfRollCall(dwarves) {
+<<<<<<< HEAD
   // First check edgecase of there being no dwarves
   if (dwarves.length === 0) {
     return "There are no dwarves :("
@@ -11,6 +12,9 @@ function dwarfRollCall(dwarves) {
     
     return numDwarves
   }
+=======
+  
+>>>>>>> b530b3e733ef597540b0c7bda240ca00ad669453
 }
 
 function summonCaptainPlanet(planeteerCalls){
